@@ -9,6 +9,7 @@ session_start();
         <title>Login</title>
     </head>
     <body>
+	    
     <h1>Login</h1>
 		<form class ="form" action="" method="POST">
 			<input class="input" type="text" name="username" placeholder="Username"/><br>
